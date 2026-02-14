@@ -13,8 +13,17 @@ Software:
 Add-on Packages: 
  - vaderSentiment
  - pandas
+ - numpy
  - matplotlib
- - SciPy Stats
+ - SciPy
+ - statsmodels
+ - seaborn
+ - requests
+ - tqdm
+ - time
+ - datetime
+ - re
+ - os
 
 Platform Used:
  - macOS
