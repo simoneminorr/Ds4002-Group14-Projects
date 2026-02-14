@@ -32,7 +32,7 @@ Platform Used:
 
 ## Documentation Map
 
-```
+```text
 Ds4002-Group14-Projects/
 │
 ├── README.md
@@ -64,6 +64,7 @@ Ds4002-Group14-Projects/
 │
 └── requirements.txt
 ```
+
 
 
 
