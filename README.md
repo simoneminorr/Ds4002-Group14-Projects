@@ -30,8 +30,6 @@ Platform Used:
 
 ## Documentation Map
 
-## Documentation Map
-
 ```text
 Ds4002-Group14-Projects/
 │
