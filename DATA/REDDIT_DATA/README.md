@@ -11,12 +11,10 @@
 - Used in data analysis
 - Too large to be displayed in a tabular format
 
-### shipping_comments_clean_first_5
-- Takes in the first 5 observations from shipping_comments_clean to demonstrate the data in a tabular format
-
 ### shipping_comments_final_clean
 - Removes unnused information from shipping_comments_clean to demonstrate just the text data in an easy-to-read format
 - Too large to be displayed in a tabular format
 
-### shipping_comments__final_clean_first_5
-- Takes in the first 5 observations from shipping_comments_final_clean to demonstrate the data in a tabular format
+### shipping_comments_clean_first_5 / shipping_comments__final_clean_first_5
+- Takes in the first 5 observations from shipping_comments_final_clean / shipping_comments_final_clean to demonstrate the data in a tabular format
+- Allows viewer to better understand the data tables
