@@ -89,26 +89,21 @@ Ds4002-Group14-Projects/
 │               • Saves outputs to /output/
 │
 ├── output/
-│   │
-│   ├── figures/
-│   │   └── Saved visualizations used in MI3 presentation
-│   │
-│   ├── tables/
-│   │   ├── anova_results.csv
-│   │   ├── tukey_results.csv
-│   │   ├── binomial_results.csv
-│   │   ├── chi_square_results.csv
-│   │   └── summary_mean_compound_ci.csv
-│   │
-│   ├── shipping_posts_raw.csv
-│   ├── shipping_comments_raw.csv
-│   └── shipping_comments_clean.csv
-│
-└── requirements.txt
-    └── Lists required Python packages:
-        pandas, numpy, matplotlib, seaborn,
-        scipy, statsmodels, vaderSentiment,
-        requests, tqdm
+    │
+    ├── figures/
+    │   └── Saved visualizations used in MI3 presentation
+    │
+    ├── tables/
+    │   ├── anova_results.csv
+    │   ├── tukey_results.csv
+    │   ├── binomial_results.csv
+    │   ├── chi_square_results.csv
+    │   └── summary_mean_compound_ci.csv
+    │
+    ├── shipping_posts_raw.csv
+    ├── shipping_comments_raw.csv
+    └── shipping_comments_clean.csv
+
 ```
 
 
