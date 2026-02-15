@@ -183,7 +183,8 @@ output/shipping_comments_clean.csv
 **Run all cells from top to bottom.**
 
 ✔ Confirm that `shipping_comments_clean.csv` is created before continuing.
-However, to reproduce exactly the same result we have, ignore step 3.1 anddownload shipping_comment_clean.csv from the REDDIT_DATA folder and begin with step 3.2.
+
+However, to reproduce exactly the same result we have, ignore step 3.1. Download shipping_comment_clean.csv from the REDDIT_DATA folder and begin with step 3.2 instead.
 
 ---
 
