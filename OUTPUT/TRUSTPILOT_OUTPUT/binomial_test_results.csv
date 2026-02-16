@@ -1,0 +1,5 @@
+Company,Total Reviews,Negative Reviews,Observed Negative Proportion,P-value,Conclusion
+DHL,30,24,0.8,0.0007154531776905061,The proportion of negative comments for DHL is significantly greater than 50%.
+FedEx,29,22,0.7586206896551724,0.004065029323101044,The proportion of negative comments for FedEx is significantly greater than 50%.
+UPS,30,23,0.7666666666666667,0.0026114396750926976,The proportion of negative comments for UPS is significantly greater than 50%.
+USPS,30,26,0.8666666666666667,2.9738061130046848e-05,The proportion of negative comments for USPS is significantly greater than 50%.

@@ -1,0 +1,4 @@
+Metric,Value
+ANOVA F-statistic,0.19844392386568532
+ANOVA P-value,0.8972634658764509
+Conclusion,There is no statistically significant difference in mean VADER compound sentiment scores among the shipping companies.
